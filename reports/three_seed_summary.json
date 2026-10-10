@@ -11,9 +11,12 @@
   ],
   "mean_accuracy": 0.7726666666666667,
   "std_accuracy_sample": 0.012055427546683428,
+  "mean_plus_minus_std": "0.7727 \u00b1 0.0121",
   "best_params": {
     "learning_rate": 0.0027792992750462365,
     "batch_size": 64,
     "dropout": 0.24444525375713033
-  }
+  },
+  "dataset_sha256": "077b4755137a74af2a91fab67a4119b20dc1a4414eceff32227b0665a60cd1b9",
+  "dvc_dataset_hash": "b99a460e16e5dea108b44b4242e339db.dir"
 }
