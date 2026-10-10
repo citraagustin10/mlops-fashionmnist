@@ -1,0 +1,10 @@
+{
+  "best_value": 0.782,
+  "best_params": {
+    "learning_rate": 0.0027792992750462365,
+    "batch_size": 64,
+    "dropout": 0.24444525375713033
+  },
+  "n_trials": 20,
+  "dataset_sha256": "5494a24bada208b03ce26083281279486b6c2ab468ee1ec5be9e50c4cdd8ea61"
+}

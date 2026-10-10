@@ -1,0 +1,19 @@
+{
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "accuracies": [
+    0.76,
+    0.784,
+    0.774
+  ],
+  "mean_accuracy": 0.7726666666666667,
+  "std_accuracy_sample": 0.012055427546683428,
+  "best_params": {
+    "learning_rate": 0.0027792992750462365,
+    "batch_size": 64,
+    "dropout": 0.24444525375713033
+  }
+}
